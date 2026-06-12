@@ -1,44 +1,23 @@
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "Yongdosaui Yeokdaegeup Hoegwi",
-  "status": "Ongoing",
-  "author": "Do-yeob",
-  "artist": "Gat-sa",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Shounen",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": "4.8",
-  "synopsis": "Kekaisaran hancur akibat serangan naga raksasa. Sebagai Dragonslayer terakhir, Sieg Alphen gagal menyelamatkan dunia dan mati di tangan Naga Merah. Namun, takdir memberinya kesempatan kedua. Dia terbangun di tubuh dirinya yang berusia 15 tahun sebelum tragedi besar dimulai. Berbekal memori masa depan dan teknik pedang tertinggi, Sieg memulai langkahnya kembali untuk memburu para naga dan mencegah kepunahan umat manusia.",
-  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-storage/main/assets/covers/a-dragonslayers-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "The End and The Beginning",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/004.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "The Weight of Memories",
-      "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/004.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "A Cadet Becomes a Prophet",
+    "title": "A Cadet Becomes A Prophet",
+    "category": "action",
+    "path": "action/A Cadet Becomes a Prophet.cbz",
+    "cover_url": "https://raw.githubusercontent.com/raja22ti-lang/monstasaye/main/action/A%20Cadet%20Becomes%20a%20Prophet.jpg"
+  },
+  {
+    "manga_id": "The Hero Starts Over at the Academy",
+    "title": "The Hero Starts Over At The Academy",
+    "category": "hero",
+    "path": "hero/The Hero Starts Over at the Academy.cbz",
+    "cover_url": "https://raw.githubusercontent.com/raja22ti-lang/monstasaye/main/hero/The%20Hero%20Starts%20Over%20at%20the%20Academy.jpg"
+  },
+  {
+    "manga_id": "I Killed an Academy Player",
+    "title": "I Killed An Academy Player",
+    "category": "slice of life",
+    "path": "slice of life/I Killed an Academy Player.cbz",
+    "cover_url": "https://raw.githubusercontent.com/raja22ti-lang/monstasaye/main/slice%20of%20life/I%20Killed%20an%20Academy%20Player.jpg"
+  }
+]
